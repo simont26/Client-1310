@@ -1,0 +1,29 @@
+<N3FXPART>
+<type> board
+<texture> fx\billboard\1126me_darkheals\me_darkheals.tga 6
+<life> 1.7000
+<texture_animation_speed> 14.0000
+<position0> 0.7000 0.0000 0.4000
+<distance> 0.0000
+<velocity> 0.0000 2.8000 0.0000
+<rot_velocity> 0.0000 0 0
+<acceleration> 0.0000 0.0000 0.0000
+<on_screen> false
+<on_ground> false
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.3000
+<fadein> 0.3000
+<billboard_count> 1
+<billboard_size> 0.1300 1.0000
+<tex_loop> true
+<Rotate_only_y> true
+<billboard_scale_velocity> 0.5000 10.0000
+<billboard_scale_acceleration> 0.0000 -0.0100
+<billboard_Rotation> 0.0000 0.0000 0.0000
+<end>

@@ -1,0 +1,24 @@
+<N3FXPART>
+<type> ground
+<texture> fx\ground\30430dm_light_g\dm_g.tga 7
+<life> 4.5000
+<texture_animation_speed> 20.0000
+<position0> 0.0000 0.0000 0.0000
+<velocity> 0.0000 0.0000 0.0000
+<acceleration> 0.0000 0.0000 0.0000
+<rot_velocity> 0.0000 1.0000 0.0000
+<alpha> true
+<doubleside> true
+<light> false
+<zbuffer> true
+<zwrite> false
+<src_blend> SRCALPHA
+<dest_blend> ONE
+<fadeout> 0.2000
+<fadein> 0.1000
+<ground_size> 25.0000 25.0000
+<tex_loop> true
+<ground_scale_velocity> 0.0000 0.0000
+<ground_scale_acceleration> 0.0000 0.0000
+<ground_gap> 0.2000
+<end>
